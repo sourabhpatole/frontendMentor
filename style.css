@@ -98,7 +98,7 @@ section ul p {
 
 .bg-img {
   min-height: 10em;
-  width: 1440px;
+  width: 540px;
   min-width: 200px;
   background: url(image-header-desktop.jpg);
   background-repeat: no-repeat;
@@ -196,7 +196,7 @@ section ul p {
   }
   .bg-img {
     height: 220px;
-    width: 375px;
+    width: 300px;
     border-radius: 10px 10px 0 0;
     background: url(image-header-mobile.jpg) no-repeat;
     background-size: contain;
